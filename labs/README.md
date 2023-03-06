@@ -1,16 +1,9 @@
-# labs
+# Котики
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://media.tenor.com/lq1WYBr20xEAAAAd/dancing-cat.gif" width="300" height="250">,
+<img src="https://media.tenor.com/--3RJN4uY1QAAAAM/cat-screaming-cat.gif" width="300" height="250">,
+<img src="https://media.tenor.com/rz4kOurhQ0QAAAAd/big-mouth-cat.gif" width="300" height="250">,
+<img src="https://s02.yapfiles.ru/files/2745956/danielraftalack.gif" width="300" height="250">,
+<img src="https://media.tenor.com/SDwGg31pp4AAAAAC/maxwell-the-cat-maxwell.gif" width="300" height="250">,
+<img src="https://media.tenor.com/OeswMjtpFdQAAAAM/cat.gif" width="300" height="250">,
